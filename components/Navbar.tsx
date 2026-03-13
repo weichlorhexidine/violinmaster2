@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import { User, LogOut, Violin } from 'lucide-react';
+import { User, LogOut } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 
 export default function Navbar() {
